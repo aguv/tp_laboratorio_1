@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1599926492 source:q:\c projects\calculadorautn\aritmetica.c
+	<stdio.h>
+	<stdlib.h>
+	"Aritmetica.h"
+
+1599926492 q:\c projects\calculadorautn\aritmetica.h
+	<stdio.h>
+	<stdlib.h>
+
+1599927075 source:q:\c projects\calculadorautn\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Aritmetica.h"
+	"FuncionesBasicas.h"
+
+1599856689 q:\c projects\calculadorautn\funcionesbasicas.h
+	<stdio.h>
+	<stdlib.h>
+
+1599927546 source:q:\c projects\calculadorautn\funcionesbasicas.c
+	<stdio.h>
+	<stdlib.h>
+	"Aritmetica.h"
+	<conio.h>
+	<unistd.h>
+	"Validaciones.h"
+	"FuncionesBasicas.h"
+
+1599927704 source:q:\c projects\calculadorautn\validaciones.c
+	"Validaciones.h"
+
+1599926492 q:\c projects\calculadorautn\validaciones.h
+
