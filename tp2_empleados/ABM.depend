@@ -1,0 +1,83 @@
+# depslib dependency file v1.0
+1601654392 source:c:\tps\tp2\abm\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	<ctype.h>
+
+1601315893 c:\tps\tp2\abm\utn.h
+
+1601307865 source:c:\tps\tp2\abm\main.c
+	<stdio.h>
+	<stdlib.h>
+	"workflow.h"
+
+1601305271 c:\tps\tp2\abm\workflow.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"sEmployee.h"
+
+1601316452 c:\tps\tp2\abm\semployee.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
+1601319240 source:c:\tps\tp2\abm\workflow.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"sEmployee.h"
+
+1601402235 source:c:\tps\tp2\abm\semployee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"sEmployee.h"
+
+1601307865 source:c:\tps\tp2\tp2_empleados\main.c
+	<stdio.h>
+	<stdlib.h>
+	"workflow.h"
+
+1601305271 c:\tps\tp2\tp2_empleados\workflow.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"sEmployee.h"
+
+1601315893 c:\tps\tp2\tp2_empleados\utn.h
+
+1601316452 c:\tps\tp2\tp2_empleados\semployee.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
+1601654567 source:c:\tps\tp2\tp2_empleados\semployee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"sEmployee.h"
+
+1601654392 source:c:\tps\tp2\tp2_empleados\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	<ctype.h>
+
+1601319240 source:c:\tps\tp2\tp2_empleados\workflow.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"sEmployee.h"
+
